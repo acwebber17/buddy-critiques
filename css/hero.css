@@ -1,7 +1,7 @@
 body{
 	margin: 0;
-	font-family: 'Helvetica', 'Times New Roman', sans-serif;
-	font-size: 20px;
+	font-family: 'Promima Nova', 'Times New Roman', sans-serif;
+	font-size: 18px;
 	line-height: 30px;
 
 }
@@ -35,11 +35,12 @@ main{
 }
 
 main img{
-	max-width: 100%;
+	max-width: 50%;
+	max-height: 100%
 }
 
 h2{
-	font-size: 40px;
+	font-size: 25px;
 	color: purple;
 	margin: 40px 0 10px;
 }
