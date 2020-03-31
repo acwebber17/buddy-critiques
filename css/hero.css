@@ -20,11 +20,11 @@ h1, h2{
 
 header h1{
 	color: yellow;
-	font-size: 50px;
+	font-size: 30px;
 }
 
 header img{
-	border-radius: 150px;
+	border-radius: 10px;
 	width: 300px;
 	border: 20px solid yellow
 }
