@@ -14,13 +14,13 @@ header{
 }
 
 h1, h2{
-	font-family: 'Press Start 2P', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 
 }
 
 header h1{
-	color: yellow;
-	font-size: 30px;
+	color: white;
+	font-size: 100px;
 }
 
 header img{
@@ -40,7 +40,7 @@ main img{
 }
 
 h2{
-	font-size: 25px;
+	font-size: 40px;
 	color: purple;
 	margin: 40px 0 10px;
 }
