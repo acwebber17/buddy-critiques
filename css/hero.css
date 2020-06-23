@@ -7,7 +7,7 @@ body{
 }
 
 header{
-	background-color: #BE33FF;
+	background-color: #FFFC33;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -43,7 +43,7 @@ main img{
 
 h2{
 	font-size: 40px;
-	color: #BE33FF;
+	color: #FFFC33;
 	margin: 40px 0 10px;
 }
 
@@ -55,7 +55,7 @@ a:hover{
 }
 
 footer{
-	background-color: #BE33FF;
+	background-color: #FFFC33;
 	text-align: center;
 	color: white;
 	padding: 50px;
