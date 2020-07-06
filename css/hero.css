@@ -7,58 +7,76 @@ body{
 }
 
 header{
-	background-color: #FFFC33;
+	background-color: #23A4D8;
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 30px;
 	padding-bottom: 50px;
 }
 
 h1, h2{
 	font-family: 'PT Sans Narrow', sans-serif;
+	font-style: bold;
 
 }
 
 header h1{
-	color: white;
+	color: black;
 	font-size: 100px;
+	font-style: bold;
 }
 
 header img{
 	border-radius: 10px;
-	width: 300px;
-	border: 20px solid yellow
+	width: 525px;
+	border: 50px #C856F7;
 }
+.paragraph1{
+		font-size: 100px;
+}
+
 main{
 	max-width: 1400px;
 	margin: 0 auto;
 	padding: 20px;
-	background-color: black;
-	color: white;
+	background-color: #AFB9B9;
+	color: black;
 }
 
 main img{
 	max-width: 50%;
 	max-height: 100%
+	border: 100px solid black
+}
+
+.this{
+	color:white;
+}
+
+div{
+	max-width: 1400px;
+	padding: 20px;
+	background-color: #AFB9B9;
+	color: black;
 }
 
 h2{
 	font-size: 40px;
-	color: #FFFC33;
+	color: #2287D2;
 	margin: 40px 0 10px;
 }
 
 a{
-	color: yellow;
+	color: #00FFFB;
 }
 a:hover{
 	color: purple;
 }
 
 footer{
-	background-color: #FFFC33;
+	background-color: #23A4D8;
 	text-align: center;
-	color: white;
-	padding: 50px;
+	color: black;
+	padding: 15px;
 }
 
 footer p{
@@ -67,6 +85,5 @@ footer p{
 
 p.caption{
 	color: lightgrey;
-	font-style: italic;
 	margin-top: 0;
 }
